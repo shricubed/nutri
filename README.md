@@ -9,4 +9,8 @@ Nutri is completely self-hosted. Create a new bot application in Discord (https:
 - !nutri [query] [optional index]: either lists the entire nutrimatic search results of the given query or a specific one based on the index.
 
 ## Examples
+- !nutri <ab>:
+  - Output: "ab ba a b b a"
+- !nutri <ab> 2:
+  - ba
 
